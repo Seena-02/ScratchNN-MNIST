@@ -96,4 +96,3 @@ if __name__ == "__main__":
 
     # Begin gradient decent
     W1, b1, W2, b2 = gradient_decent(X_train, Y_train, 500, 0.1)
-

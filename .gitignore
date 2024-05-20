@@ -3,4 +3,4 @@
 **/.DS_Store
 **/._.DS_Store
 
-/datasets/mnist_train.csv
+datasets/mnist_train.csv

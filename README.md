@@ -1,6 +1,10 @@
 # Quickstart Guide
 
+Download the train dataset from [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?select=mnist_train.csv).
+
 ## Step 1
+
+Once cloned place the .csv into the datasets folder.
 
 ```bash
 git clone https://github.com/Seena-02/ScratchNN-MNIST
@@ -36,5 +40,6 @@ pyhton3 main.py
 ```
 
 ## The Math
+
 ![notes](assets/nn.png)
 Recreated from [here](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=732s).

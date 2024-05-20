@@ -35,4 +35,6 @@ Run it from inside src folder!
 pyhton3 main.py
 ```
 
+## The Math
+![notes](assets/nn.png)
 Recreated from [here](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=732s).

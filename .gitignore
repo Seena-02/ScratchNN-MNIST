@@ -4,3 +4,4 @@
 **/._.DS_Store
 
 datasets/mnist_train.csv
+datasets/*.csv
